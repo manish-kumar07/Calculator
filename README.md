@@ -4,7 +4,8 @@
 ```
 Name Manish kumar
 Currently Studying
-From India
+From India :)
+instagram id _manishkumr07_
 ```
 
 # About This Project
@@ -12,5 +13,5 @@ From India
 Simple Calculator Using Java
 ```
 
-# 💖 Support Me
-**copyright @2023 All rights reserved**
+# 💖 <a href="https://github.com/manish-kumar07/"> Support Me </a> 
+### copyright© 2023 All rights reserved.
