@@ -12,7 +12,12 @@ instagram id _manishkumr07_
 ```
 Simple Calculator Using Java
 ```
-# Social Media
-## <a href="https://linktr.ee/manishkumar07.com"> All Social Media Links </a>
+
+
+
+
+## All Social Media Links
+> [Click Here!](https://linktr.ee/manishkumar07.com)
+
 # 💖 <a href="https://github.com/manish-kumar07/"> Support Me </a> 
-### copyright© 2023 All rights reserved.
+#### copyright© 2023 All rights reserved.
